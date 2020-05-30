@@ -1,0 +1,77 @@
+﻿  lab2.cpp
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(15,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(162,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(163,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(164,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(184,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(184,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(185,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(185,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(186,51): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(186,73): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(187,52): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(187,74): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(188,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(189,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(189,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(203,48): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(204,48): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Romich\source\repos\Ray-Tracing\geometry.h(65,47): warning C4244: '=': conversion from 'U' to 'T', possible loss of data
+          with
+          [
+              U=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Romich\source\repos\Ray-Tracing\lab2.cpp(127): message : see reference to function template instantiation 'vec<3,float> operator *<3,float,double>(const vec<3,float> &,const U &)' being compiled
+          with
+          [
+              U=double
+          ]
+  Ray-Tracing.vcxproj -> C:\Users\Romich\source\repos\Ray-Tracing\Debug\Ray-Tracing.exe

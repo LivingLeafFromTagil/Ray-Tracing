@@ -1,0 +1,2 @@
+C:\Users\Romich\source\repos\Ray-Tracing\Debug\Ray-Tracing.exe
+C:\Users\Romich\source\repos\Ray-Tracing\Debug\Ray-Tracing.pdb
